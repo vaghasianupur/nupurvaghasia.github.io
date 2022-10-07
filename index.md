@@ -5,14 +5,14 @@ This is my website.
 
 ## Smaller Header
 
-- Bullet
-- Bullet 2
+- What's 
+- Up Jahnu?
 
 Picture
 
-![picture title](add url link)
+![picture title]()
 
-[text to link](https://google.com)
+[text to link]([https://google.com](http://www.lawrentian.com/wp-content/uploads/2022/02/Nupur-Vaghasia-scaled.jpg)
 
 
 

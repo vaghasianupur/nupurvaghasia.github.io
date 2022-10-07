@@ -1,11 +1,9 @@
 
-# My website
+# My personal website
 
 This is my website.
 
 ## Smaller Header
-
-My majors are Neuroscience and Psychology. My minor is Biology.
 
 - Bullet
 - Bullet 2
